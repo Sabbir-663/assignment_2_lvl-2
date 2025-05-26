@@ -8,7 +8,7 @@ CREATE TABLE লাইব্রেরি (
 ইস্যু তারিখ DATE - গ্রাহোকারের নাম
 );
 
-##Explain the primary Key and Foreign Key concepts in postgreSQL
+## Explain the primary Key and Foreign Key concepts in postgreSQL
 primary key হলো একটি কলাম বা একাধিক কলামের সেট যা একটি টেবিলের প্রতিটি রেকর্ডকে অন্যদের থেকে আলাদা করে। এটি কখনো null বা ডুপ্লিকেট হয়না।
 বৈশিষ্ট: প্রতিটি টেবিলের একটি প্রাইমারি কি থাকতে পারে।এবং এর মানগুলো অবশ্যই ইউনিক হতে হবে।এছাড়া এটি স্বয়ংক্রিয়ভাবে একটি ইন্ডেক্স তৈরি করে।
 
